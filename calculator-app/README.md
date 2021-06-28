@@ -13,7 +13,7 @@ Using **HTML5**, **CSS3** and **Reactjs**
 ## Challenges we ran into
 
 In the Result or the final calculation functionality the result was not showing as expected.
-Thanks to **Stackoverflow** and **Medium Blogs** I overcame that.
+Thanks to **Stackoverflow** and **Medium Blogs**, I overcame that.
 
 ## What we learned
 
