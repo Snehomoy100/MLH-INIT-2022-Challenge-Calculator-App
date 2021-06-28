@@ -5,6 +5,8 @@ import './App.css';
 
 const App = () => {
 
+    const owner = "Snehomoy Maitra."
+
     const [result, setResult] = useState("");
 
     const handleClick = (e) => {
@@ -34,6 +36,8 @@ const App = () => {
 
     return (
         <>
+            <h1>Simple Calculator App</h1>
+            {/* <h2>Build by Snehomoy Maitra</h2>   */}
             <div className="container">
                 <form>
                     <input type="text" value={result}></input>
@@ -62,6 +66,7 @@ const App = () => {
 
                 </div>
             </div>
+            <a href="https://github.com/Snehomoy100">Made with ❤️ in 🇮🇳 by {owner}</a>
         </>
     );
 };

@@ -6,10 +6,25 @@
 }
 
 body {
+    background-color: #242B2E;
     display: flex;
     justify-content: center;
     align-items: center;
 }
+
+h1 {
+    color: #ffffff;
+    font-size: 30px;
+    text-align: center;
+}
+
+a {
+    color: #ffffff;
+    justify-content: center;
+    font-size: 15px;
+    text-align: center;
+}
+
 
 
 .container {
