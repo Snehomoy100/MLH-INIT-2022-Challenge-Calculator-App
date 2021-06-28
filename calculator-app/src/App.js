@@ -20,8 +20,10 @@ const App = () => {
         setResult(result.slice(0, result.length - 1));
     }
 
+
+    
     const calculate = () => {
-        
+
         try {
             setResult(eval(result).toString());
         } catch(err) {
