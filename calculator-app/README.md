@@ -10,7 +10,7 @@ This is a simple **calculator app** for your daily computation need.
 
 <img src="https://github.com/Snehomoy100/MLH-INIT-2022-Calculator-App/blob/main/calculator-app/snapshots/2.png" />
 
-## Mobile view
+## Mobile View
 
 <img src="https://github.com/Snehomoy100/MLH-INIT-2022-Calculator-App/blob/main/calculator-app/snapshots/4.png" />
 
