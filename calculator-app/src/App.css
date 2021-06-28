@@ -32,3 +32,11 @@ body {
     grid-template-columns: repeat(4, 1fr);
     grid-auto-rows: minmax(60px, auto);
 }
+
+input[type="text"] {
+    height: 75px;
+    width: 240px;
+    background-color: #10111600;
+    border: 0px;
+    color: #ffffff;
+}
