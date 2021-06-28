@@ -6,7 +6,7 @@ This is one of the day one challenges of the MLH INIT 2022.
 
 This is a simple **calculator app** for your daily computation need.
 
-## Snapshot of the project
+## Snapshot of the project (Desktop View)
 
 <img src="https://github.com/Snehomoy100/MLH-INIT-2022-Calculator-App/blob/main/calculator-app/snapshots/2.png" />
 
